@@ -59,7 +59,7 @@ body {
 
 .intro-texto h1 {
     font-size: 34px;
-    color: #75391C;
+    color: #000000;
 }
 
 .intro-texto h2 {
@@ -73,6 +73,7 @@ body {
     max-width: 100%;
     height: auto;
     display: block;
+    border-radius: 8px;
 }
 
 /* =============================
