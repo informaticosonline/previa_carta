@@ -159,8 +159,8 @@ body {
 }
 
 /* Azules y verdes */
-.btn-telefono { background-color: #0b2346; }
-.btn-whatsapp2 { background-color: #25d366; }
+.btn-telefono { background-color: #0b2346; color:#f9c101}
+.btn-whatsapp2 { background-color: #25d366; color:#f9c101}}
 
 /* Iconos dentro de los botones */
 .icono-svg svg {
